@@ -14,7 +14,7 @@ In this tutorial we handle three predictive analytics tasks:
 
 **1. Predict Engine’s Remaining Useful Life (RUL):** *how many operational cycles left before the engine fails?*
 
-**2. Predict Alarm and Normal Time Zones before Failure:** *given a new sensor reading, predict whether the engine is in Alarm Zone (i.e. 1 to n_1 operational cycles before failure) or in Normal Zone (more than n1 operational cycles before failure)?*
+**2. Predict Alarm and Normal Time Zones before Failure:** *given a new sensor reading, predict whether the engine is in Alarm Zone (i.e. 1 to n1 operational cycles before failure) or in Normal Zone (more than n1 operational cycles before failure)?*
 
 **3. Predict Alarm, Warning, and Normal Time Zones before Failure:** *given a new sensor reading, predict whether the engine is in Alarm Zone (i.e. 1 to n1 operational cycles before failure), in Warning Zone (i.e.  n1 to n2 operational cycles before failure) or in Normal Zone (more than n2 operational cycles before failure)?*
 
