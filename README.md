@@ -1,4 +1,4 @@
-# Predictive-Maintenance-In-PySpark
+# Predictive Maintenance In PySpark
 ## 1. Apache Spark
 Apache Spark is an open-source distributed platform for fast data processing. Spark programming model outperforms traditional Hadoop MapReduce model in different key aspects. Firstly, Spark enables in-memory computations, which makes it much faster than MapReduce. Secondly, Spark natively supports different computational paradigms, such as stream data processing and interactive SQL queries. In addition, Spark comes with Out-Of-The-Box modules that support general-purpose data processing requirements, such as machine learning and graph processing. On top of it’s core components, Spark has different programming APIs (SQL, Scala, Java, Python, and R). Because of its numerous advantages, Spark become a cornerstone in modern BI and advanced analytics systems.
 ## 2. Motivations
