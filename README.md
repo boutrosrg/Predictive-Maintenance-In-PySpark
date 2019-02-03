@@ -18,11 +18,16 @@ In this tutorial we handle three predictive analytics tasks:
 
 **3. Predict Alarm, Warning, and Normal Time Zones before Failure:** *given a new sensor reading, predict whether the engine is in Alarm Zone (i.e. 1 to n1 operational cycles before failure), in Warning Zone (i.e.  n1 to n2 operational cycles before failure) or in Normal Zone (more than n2 operational cycles before failure)?*
 
-## 5. Full Tutorial
-The explanation of code snippets found in these Notebooks can be found in the following links:
+## 5. Code Explanation
+The explanation of Spark code functions found in these Notebooks can be found in the following links:
 
-- [Part 1 Introduction](http://www.data-automaton.com/2019/01/03/predictive-data-analytics-with-apache-spark-part-1-introduction/)
-- [Part 2 Data Preparation](http://www.data-automaton.com/2019/01/04/predictive-data-analytics-with-apache-spark-part-2-data-preparation/)
+- [Part 1: Introduction](http://www.data-automaton.com/2019/01/03/predictive-data-analytics-with-apache-spark-part-1-introduction/)
+- [Part 2: Data Preparation](http://www.data-automaton.com/2019/01/04/predictive-data-analytics-with-apache-spark-part-2-data-preparation/)
+- [Part 3: Feature Engineering](http://www.data-automaton.com/2019/01/08/predictive-data-analytics-with-apache-spark-part-3-feature-engineering/)
+- [Part 4: Principal Component Analysis](http://www.data-automaton.com/2019/01/10/predictive-data-analytics-with-apache-spark-part-4-principal-component-analysis/)
+- [Part 5: Regression Analysis](http://www.data-automaton.com/2019/01/15/predictive-data-analytics-with-apache-spark-part-5-regression-analysis/)
+- [Part 6: Binary Classification](http://www.data-automaton.com/2019/01/20/predictive-data-analytics-with-apache-spark-part-6-binary-classification/)
+- [Part 7: Multi Classification](http://www.data-automaton.com/2019/01/27/predictive-data-analytics-with-apache-spark-part-7-multi-classification/)
 
 ### Important Note
 The goal of this tutorial is ***completely instructional***. This means that the outcomes and results included in this tutorial is not the best solutions for the given tasks. The reader is encouraged to build upon the basic solutions introduced in this tutorial and improve the results in her/hes own way.
