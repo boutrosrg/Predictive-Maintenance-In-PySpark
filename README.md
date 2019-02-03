@@ -18,5 +18,8 @@ In this tutorial we handle three predictive analytics tasks:
 
 **3. Predict Alarm, Warning, and Normal Time Zones before Failure:** *given a new sensor reading, predict whether the engine is in Alarm Zone (i.e. 1 to n1 operational cycles before failure), in Warning Zone (i.e.  n1 to n2 operational cycles before failure) or in Normal Zone (more than n2 operational cycles before failure)?*
 
+## 5. Full Tutorial
+The explanation of code snippets found in these Notebooks can be found in the following links:
+[Part 1 Introduction](http://www.data-automaton.com/2019/01/03/predictive-data-analytics-with-apache-spark-part-1-introduction/)
 ### Important Note
 The goal of this tutorial is ***completely instructional***. This means that the outcomes and results included in this tutorial is not the best solutions for the given tasks. The reader is encouraged to build upon the basic solutions introduced in this tutorial and improve the results in her/hes own way.
